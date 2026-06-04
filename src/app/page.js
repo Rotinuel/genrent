@@ -238,7 +238,7 @@ export default function HomePage() {
           ))}
         </div>
         <div className="max-w-5xl mx-auto mt-10 pt-6 border-t border-surface-300 text-center text-surface-600 text-xs">
-          © {new Date().getFullYear()} GenRent. Built with ⚡ in Nigeria.
+          © {new Date().getFullYear()} GenRent.
         </div>
       </footer>
     </main>
